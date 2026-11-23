@@ -1,0 +1,16 @@
+C:\Users\User\test\Haus\bin\Debug\net11.0\Haus.exe
+C:\Users\User\test\Haus\bin\Debug\net11.0\Haus.deps.json
+C:\Users\User\test\Haus\bin\Debug\net11.0\Haus.runtimeconfig.json
+C:\Users\User\test\Haus\bin\Debug\net11.0\Haus.runtimeconfig.dev.json
+C:\Users\User\test\Haus\bin\Debug\net11.0\Haus.dll
+C:\Users\User\test\Haus\bin\Debug\net11.0\Haus.pdb
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.AssemblyInfoInputs.cache
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.AssemblyInfo.cs
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.csproj.CoreCompileInputs.cache
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.dll
+C:\Users\User\test\Haus\obj\Debug\net11.0\refint\Haus.dll
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.pdb
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.genruntimeconfig.cache
+C:\Users\User\test\Haus\obj\Debug\net11.0\ref\Haus.dll
+C:\Users\User\test\Haus\obj\Debug\net11.0\Haus.csproj.Up2Date
